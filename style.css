@@ -1,0 +1,35 @@
+body{
+    background-image: url("bg.jpg");
+ }
+ p {
+    text-align: center
+ }
+
+ h1 {
+     text-align: center;
+     color: rgb(0, 0, 0);
+ }
+
+ h2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#centered {
+    text-align: center;
+}
+
+#title {
+    width: 800px;
+    height: 100px;
+    padding: 25px 0 0 25px;
+    background-color: rgba(255,255,255,0.7);
+    margin: 10px auto;
+}
+
+#content {
+    width: 800px;
+    min-height: 775px;
+    background-color: rgba(255,255,255,0.7);
+    margin: 10px auto;
+}
